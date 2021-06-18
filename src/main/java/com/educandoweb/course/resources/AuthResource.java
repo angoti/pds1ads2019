@@ -15,7 +15,7 @@ import com.educandoweb.course.dto.EmailDTO;
 import com.educandoweb.course.dto.TokenDTO;
 import com.educandoweb.course.services.AuthService;
 
-@CrossOrigin
+//@CrossOrigin
 @RestController
 @RequestMapping(value = "/auth")
 public class AuthResource {
